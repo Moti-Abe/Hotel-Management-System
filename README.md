@@ -10,12 +10,12 @@ This project was developed as a complete hotel management solution that can be u
 
 The Hotel Management System includes the following key features:
 
-- ✅ **User-Friendly Interface** — Built with Java Swing for intuitive desktop interaction.  
-- 📅 **Room Management** — Add, update, delete, and view room details.  
-- 🧑‍💼 **Guest Management** — Register guests, view profiles, and manage their stay details.  
-- 📆 **Reservation System** — Create and manage reservations with check-in/check-out support.  
-- 💳 **Billing & Invoicing** — Generate and view invoices for guest stays and services.  
-- 📊 **Reports & Records** — Maintain history logs for bookings and guest stays.  
+-  **User-Friendly Interface** — Built with Java Swing for intuitive desktop interaction.  
+-  **Room Management** — Add, update, delete, and view room details.  
+-  **Guest Management** — Register guests, view profiles, and manage their stay details.  
+-  **Reservation System** — Create and manage reservations with check-in/check-out support.  
+-  **Billing & Invoicing** — Generate and view invoices for guest stays and services.  
+-  **Reports & Records** — Maintain history logs for bookings and guest stays.  
 
 *(Modify this based on what your code actually supports.)*
 
@@ -44,4 +44,14 @@ To run the Hotel Management System locally, follow these steps:
 <img width="400" height="300" alt="Screenshot 2026-01-08 084346" src="https://github.com/user-attachments/assets/a934e4e5-85ae-4795-9275-6b1e72e1175b" />
 <img width="400" height="300" alt="Screenshot 2026-01-08 084416" src="https://github.com/user-attachments/assets/d359df6e-d36e-4d8b-94cf-a4b303d11082" />
 <img width="400" height="300" alt="Screenshot 2026-01-08 084515" src="https://github.com/user-attachments/assets/602c048c-b839-4813-8197-dfcc0cc4cafa" />
+
+## License
+This project is open source and available under the MIT License.
+
+## Contact
+
+Developer: Moti Abe
+📧 Email: matiabe8@gmail.com
+
+🌐 GitHub: https://github.com/Moti-Abe
 
