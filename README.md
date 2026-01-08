@@ -38,10 +38,10 @@ To run the Hotel Management System locally, follow these steps:
 ## 📷 Screenshots
 
 
-<img width="737" height="651" alt="Screenshot 2026-01-08 084220" src="https://github.com/user-attachments/assets/eb109ab1-c27a-4932-9692-856d60e114de" />
-<img width="993" height="769" alt="Screenshot 2026-01-08 084257" src="https://github.com/user-attachments/assets/01c84f20-4fb4-4629-ae8c-9ecd90a57afa" />
-<img width="989" height="784" alt="Screenshot 2026-01-08 084324" src="https://github.com/user-attachments/assets/08a4d1b9-902b-4ef9-8f3e-b057bd9b94dd" />
-<img width="988" height="779" alt="Screenshot 2026-01-08 084346" src="https://github.com/user-attachments/assets/a934e4e5-85ae-4795-9275-6b1e72e1175b" />
-<img width="988" height="774" alt="Screenshot 2026-01-08 084416" src="https://github.com/user-attachments/assets/d359df6e-d36e-4d8b-94cf-a4b303d11082" />
-<img width="1919" height="1139" alt="Screenshot 2026-01-08 084515" src="https://github.com/user-attachments/assets/602c048c-b839-4813-8197-dfcc0cc4cafa" />
+<img width="400" height="300" alt="Screenshot 2026-01-08 084220" src="https://github.com/user-attachments/assets/eb109ab1-c27a-4932-9692-856d60e114de" />
+<img width="400" height="300" alt="Screenshot 2026-01-08 084257" src="https://github.com/user-attachments/assets/01c84f20-4fb4-4629-ae8c-9ecd90a57afa" />
+<img width="400" height="300" alt="Screenshot 2026-01-08 084324" src="https://github.com/user-attachments/assets/08a4d1b9-902b-4ef9-8f3e-b057bd9b94dd" />
+<img width="400" height="300" alt="Screenshot 2026-01-08 084346" src="https://github.com/user-attachments/assets/a934e4e5-85ae-4795-9275-6b1e72e1175b" />
+<img width="400" height="300" alt="Screenshot 2026-01-08 084416" src="https://github.com/user-attachments/assets/d359df6e-d36e-4d8b-94cf-a4b303d11082" />
+<img width="400" height="300" alt="Screenshot 2026-01-08 084515" src="https://github.com/user-attachments/assets/602c048c-b839-4813-8197-dfcc0cc4cafa" />
 
