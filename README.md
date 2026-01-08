@@ -6,7 +6,7 @@ This project was developed as a complete hotel management solution that can be u
 
 ---
 
-## 🛠️ Features
+## Features
 
 The Hotel Management System includes the following key features:
 
@@ -21,13 +21,13 @@ The Hotel Management System includes the following key features:
 
 ---
 
-## 💡 Project Overview
+## Project Overview
 
 This desktop application was built to help small and medium-sized hotels automate routine operations and reduce manual errors. The system keeps all hotel data structured, making it easier to track guest histories and room occupancy in real time.
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 To run the Hotel Management System locally, follow these steps:
 
