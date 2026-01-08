@@ -46,12 +46,14 @@ To run the Hotel Management System locally, follow these steps:
 <img width="400" height="300" alt="Screenshot 2026-01-08 084515" src="https://github.com/user-attachments/assets/602c048c-b839-4813-8197-dfcc0cc4cafa" />
 
 ## License
+
 This project is open source and available under the MIT License.
 
 ## Contact
 
 Developer: Moti Abe
-📧 Email: matiabe8@gmail.com
 
-🌐 GitHub: https://github.com/Moti-Abe
+Email: matiabe8@gmail.com
+
+GitHub: https://github.com/Moti-Abe
 
