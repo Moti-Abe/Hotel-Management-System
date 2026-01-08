@@ -34,3 +34,7 @@ To run the Hotel Management System locally, follow these steps:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Moti-Abe/Hotel-Management-System.git
+
+## 📷 Screenshots
+
+<img width="909" height="789" alt="Screenshot 2025-12-13 191817" src="https://github.com/user-attachments/assets/be587038-94d7-42f8-be65-83ffd3f76e0d" />
