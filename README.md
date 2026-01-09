@@ -47,7 +47,7 @@ To run the Hotel Management System locally, follow these steps:
 
 ## License
 
-This project is open source and available under the MIT License.
+MIT License.
 
 ## Contact
 
