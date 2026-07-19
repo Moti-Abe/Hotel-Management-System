@@ -45,9 +45,6 @@ To run the Hotel Management System locally, follow these steps:
 <img width="400" height="300" alt="Screenshot 2026-01-08 084416" src="https://github.com/user-attachments/assets/d359df6e-d36e-4d8b-94cf-a4b303d11082" />
 <img width="400" height="300" alt="Screenshot 2026-01-08 084515" src="https://github.com/user-attachments/assets/602c048c-b839-4813-8197-dfcc0cc4cafa" />
 
-## License
-
-MIT License.
 
 ## Contact
 
